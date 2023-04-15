@@ -1,5 +1,5 @@
-<<<<<<< ours
+
 thong tin moi
-=======
+
 null
->>>>>>> theirs
+
