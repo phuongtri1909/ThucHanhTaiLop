@@ -1,2 +1,1 @@
-day la thong tin cua loc
-cap nhat them thong tin
+thong tin moi
